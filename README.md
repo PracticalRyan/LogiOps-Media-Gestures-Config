@@ -1,7 +1,7 @@
-# LogiOps configuration with media gestures
+# LogiOps Configuration with Media Gestures
 A configuration file to illustrate how to create media gestures in LogiOps.
 Tested on Fedora Linux 41, LogiOps v0.3.5
-This configuration file was made using the information from the  [LogiOps Documentation](https://github.com/PixlOne/logiops/wiki/Configuration), [Input Events Codes](https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h) additional sources
+This configuration file was made using the information from the  [LogiOps Documentation](https://github.com/PixlOne/logiops/wiki/Configuration), [Input Events Codes](https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h).
 
 # Installation & Setup
 1. **Install LogiOps** (For Fedora or RHEL, it's as simple as `sudo dnf install logiops`, Ubuntu can install using `apt`)
